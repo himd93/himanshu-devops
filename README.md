@@ -37,6 +37,8 @@ Tech: GitLab CI, Docker, Kubernetes, Helm
 - ✅ Microsoft Certified: Azure Administrator (AZ-104)  
 - ✅ Microsoft Certified: DevOps Engineer Expert (AZ-400)  
 - 📜 Github Foundations
+- ✅Kubernetes Cloud Native Associate
+- ✅Kubernetes Cloud Security Associate
 
 ---
 
